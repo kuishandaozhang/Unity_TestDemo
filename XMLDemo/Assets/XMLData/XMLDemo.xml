@@ -1,0 +1,14 @@
+<RootNode>
+  <ChildNode>
+    <SunNode>4</SunNode>
+    <SunNode1>4</SunNode1>
+  </ChildNode>
+  <ChildNode1>
+    <SunNode2>4</SunNode2>
+    <SunNode3>4</SunNode3>
+  </ChildNode1>
+  <ChildNode2>
+    <SunNode4>1</SunNode4>
+    <SunNode5>15</SunNode5>
+  </ChildNode2>
+</RootNode>
